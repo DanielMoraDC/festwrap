@@ -4,9 +4,9 @@ This component implements a web application that we can use to retrieve Spotify 
 
 In the future, we want this to be an interface to enable and customize playlist creations for the user.
 
-# Devleopment setup
+# Development setup test
 
-Make sure Node 10.5.0+ and Make are available in your system. Then install dependencoes:
+Make sure Node 20 and Make are available in your system. Then install dependencoes:
 
 ```shell
 npm install
@@ -25,5 +25,5 @@ REDIRECT_URI=<redirect_uri>
 To run the app, type:
 
 ```shell
-make run-app
+npm run dev
 ```

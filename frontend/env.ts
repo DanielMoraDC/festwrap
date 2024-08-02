@@ -1,0 +1,4 @@
+export const REDIRECT_URI = process.env.NEXT_PUBLIC_REDIRECT_URI
+export const SPOTIFY_CLIENT_ID = process.env.NEXT_PUBLIC_SPOTIFY_CLIENT_ID
+export const SPOTIFY_SECRET = process.env.NEXT_PUBLIC_SPOTIFY_SECRET
+export const SPOTIFY_URL = process.env.NEXT_PUBLIC_SPOTIFY_URL
