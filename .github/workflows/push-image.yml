@@ -1,8 +1,9 @@
 name: push docker image
 
 on:
-  release:
-    types: [published]
+  # release:
+    # types: [published]
+  push:
 
 env:
   REGISTRY: ghcr.io
